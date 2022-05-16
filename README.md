@@ -5,8 +5,10 @@ Komenda za pomocą której uruchamiamy projekt:
 
 Po wpisaniu adresu:
 > (adres_ip):6001
+
 Ukazuje się strona startowa phpMyAdmin
 
 Po wpisaniu adresu:
 > (adres_ip):6666
+
 Ukazuje się strona phpInfo
