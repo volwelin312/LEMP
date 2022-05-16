@@ -1,4 +1,4 @@
-Aby aplikacja zadziałała w katalogu nginx w pliku default w polu server_name należy podać adres swojej maszyny
+Aby aplikacja zadziałała, w katalogu nginx w pliku default w polu server_name należy podać adres swojej maszyny
 
 Komenda za pomocą której uruchamiamy projekt:
 docker-compose up -d
